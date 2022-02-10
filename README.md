@@ -10,7 +10,10 @@ Required hardwares:
 - motor driver ? (2 pcs);
 - model of body (drawing, 3d printing);
 - power supply 9 - 12v
-    
+  
+- [x] test  
+- [ ] test 2
+  
 #### usefull links:
 https://www.thingiverse.com/thing:1590702  
 https://www.joto.rocks/  
