@@ -12,7 +12,7 @@ Required hardwares:
 - power supply 9 - 12v
   
 - [x] test  
-- [ ] test 2
+- [ ] Gcode reading
   
 #### usefull links:
 https://www.thingiverse.com/thing:1590702  
